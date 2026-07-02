@@ -411,6 +411,6 @@ This project is open source and available under the MIT License.
 
 ---
 ## Author 
-Rahul Yadav - 
-Github - https://github.com/yadavrahulrao/placement_tracker
-Email - rahul507538@gmail.com
+Jatin Yadav - 
+Github - https://github.com/jatinyadav2036/placement_tracker
+Email - jatinya21@gmail.com
